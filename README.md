@@ -1,4 +1,4 @@
-[![License](http://img.shields.io/badge/license-apache%202.0-yellow)](http://choosealicense.com/licenses/apache-2.0/)
+[![License](http://img.shields.io/badge/license-affero%20gpl%203.0-yellow)](https://choosealicense.com/licenses/agpl-3.0/)
 [![Open Source Stacks](https://img.shields.io/badge/sponsored%20by-Cisco-blue)](https://www.opensourcestacks.com)
 [![Groovy](https://img.shields.io/badge/language-Groovy-green)](https://github.com/apache/groovy)
 [![Node.js](https://img.shields.io/badge/language-Groovy-green)](https://npmjs.com)
