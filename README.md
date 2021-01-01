@@ -1,7 +1,7 @@
 [![License](http://img.shields.io/badge/license-affero%20gpl%203.0-yellow)](https://choosealicense.com/licenses/agpl-3.0/)
-[![Open Source Stacks](https://img.shields.io/badge/sponsored%20by-Cisco-blue)](https://www.opensourcestacks.com)
+[![Open Source Stacks](https://img.shields.io/badge/Open%20Source%20Stacks)](https://www.opensourcestacks.com)
 [![Groovy](https://img.shields.io/badge/language-Groovy-green)](https://github.com/apache/groovy)
-[![Node.js](https://img.shields.io/badge/language-Groovy-green)](https://npmjs.com)
+[![Node.js](https://img.shields.io/badge/language-NodeJS-green)](https://npmjs.com)
 [![12 Factor App](https://img.shields.io/badge/app-12--factor-yellow)](https://12factor.net/)
 
 
