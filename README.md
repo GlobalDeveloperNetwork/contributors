@@ -1,3 +1,10 @@
+[![License](http://img.shields.io/badge/license-apache%202.0-yellow)](http://choosealicense.com/licenses/apache-2.0/)
+[![Open Source Stacks](https://img.shields.io/badge/sponsored%20by-Cisco-blue)](https://www.opensourcestacks.com)
+[![Groovy](https://img.shields.io/badge/language-Groovy-green)](https://github.com/apache/groovy)
+[![Node.js](https://img.shields.io/badge/language-Groovy-green)](https://npmjs.com)
+[![12 Factor App](https://img.shields.io/badge/app-12--factor-yellow)](https://12factor.net/)
+
+
 # GDN Contributors
 A repository designed for contributors to the OpenSourceStacks.com project.  An initiative for providing a management interface for describing, building, and deploying different full stack strategies using open source software.
 
