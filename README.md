@@ -56,3 +56,5 @@ $ npx gsys publish behavior
 
 All results are digitally signed and encrypted by DCT using a private and public key pair that can verify author authenticity.
 The docker images can be [created by Node](https://www.npmjs.com/package/dockerode), since this is the first language we are focusing on support for.
+
+> Portions of this repo are from the [CrateKube project](https://github.com/cratekube/cratekube), which is now deprecated by Cisco.  Apparently they did not want the code, project, or personel anymore so we are resurrecting some portions of the project for our CLI.
