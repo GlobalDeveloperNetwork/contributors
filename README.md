@@ -39,7 +39,7 @@ The DSL is actually a querying meta-language that looks much like json, just wit
 
 ## Example
 ```
-$ npx gsys publish behavior 
+$ cat test.bhv.stack | npx gsys publish behavior 
 {
   "name": "@GlobalDeveloperNetwork/module",
   "description": "test-behavior",
@@ -64,4 +64,4 @@ $ npx gsys publish behavior
 All results are digitally signed and encrypted by DCT using a private and public key pair that can verify author authenticity.
 The docker images can be [created by Node](https://www.npmjs.com/package/dockerode), since this is the first language we are focusing on support for.
 
-> Portions of this repo are from the [CrateKube project](https://github.com/cratekube/cratekube), which is now deprecated by Cisco.  Apparently they did not want the code, project, or personel anymore so we are resurrecting some portions of the project for our CLI.
+> Some portions of this repo are from the [CrateKube project](https://github.com/cratekube/cratekube), i.e.- the architectural standards, which is now deprecated by Cisco.  The code is deprecated and non-licensed, so we are resurrecting some portions of the project for our CLI.  This has been checked by our legal team and we are compliant with all applicable laws.
