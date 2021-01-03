@@ -64,4 +64,16 @@ $ cat test.bhv.stack | npx gsys publish behavior
 All results are digitally signed and encrypted by DCT using a private and public key pair that can verify author authenticity.
 The docker images can be [created by Node](https://www.npmjs.com/package/dockerode), since this is the first language we are focusing on support for.
 
-> Some portions of this repo are from the [CrateKube project](https://github.com/cratekube/cratekube), i.e.- the architectural standards, which is now deprecated by Cisco.  The code is deprecated and non-licensed, so we are resurrecting some portions of the project for our CLI.  This has been checked by our legal team and we are compliant with all applicable laws.
+--- 
+
+Some portions of this repo are from the [CrateKube project](https://github.com/cratekube/cratekube), i.e.- the architectural standards, which is now deprecated by Cisco.  
+
+```bash
+The code is deprecated and non-licensed, so we are resurrecting some portions of the project for our CLI.  
+This has been checked by our legal team and we are compliant with all applicable laws.
+```
+
+© 2021 Copyright Full Stack Engine by LARGE Holdings Ltd. dba Large Marketing Group, LLC.  
+
+___
+> Questions or concerns about content provided by our service?  We are DMCA compliant, so if you do have questions that need to be addressed, please contact our [legal](mailto:legal@large.marketing) staff directly.
