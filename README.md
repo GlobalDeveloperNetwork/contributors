@@ -50,7 +50,7 @@ The DSL is actually a querying meta-language that looks much like json, just wit
 ```bash
 $ / package.json
 {
-    "install:verify": cd projects/verification && npx yarn-recursive",                        // runs tooling package build for encryption and docker manipulation
+    "install:verify": "cd projects/verification && npx yarn-recursive",                       // runs tooling package build for encryption and docker manipulation
     "install:cli-all": "cd projects/cli-all && npx yarn-recursive",                           // runs yarn to build via npx the CLI and all supported plugins         
     "install:PKG": "cd projects/PKG && npx yarn-recursive && \
                     ln -s ./PKG ___INSTALL_YOUR_PACKAGES_HERE && \
