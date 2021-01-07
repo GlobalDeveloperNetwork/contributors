@@ -35,12 +35,7 @@ For some use cases where the stack has been modified to work with on-premise or 
 # What does DSL describe?
 The DSL is actually a querying meta-language that looks much like json, just with additional capabilites.  It is designed to make it as simple as possible to "ask" for a behavior based on a specific set of conditions and return a "result-as-code" (RAC) response.  The responses are stored as Docker containers that are digitally signed, and distributed using NPM as a generic loader that can be easily re-used as individual NPM modules. 
 
-# Docker DCT 
-It is recommended that all developer builds utilize the same repeatable pattern so please run Docker for your builds via our CLI:
-docker pull @
-
-
-# Loading
+# Loading your repo
 
 ## Example Mono Repo for Authors of multiple packages that want to use the Gitops.Systems (Gsys) and Fullstack DSL (FDSL):
 ```bash
