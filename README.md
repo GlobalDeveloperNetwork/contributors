@@ -58,7 +58,7 @@ $ / package.json
 ```
 ## Building a Monorepo:
 ```bash
-   npx npm yarn-run-all
+   npx yarn-run-all
 ```
 
 ## Example package contained in the directory of your choice:
