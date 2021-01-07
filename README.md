@@ -5,6 +5,9 @@
 [![12 Factor App](https://img.shields.io/badge/app-12--factor-yellow)](https://12factor.net/)
 
 
+# Discord Community
+Please join us on [GDN Discord chat](https://discord.gg/r5vXHwgb).
+
 # GDN Contributors
 A repository designed for contributors to the [OpenSourceStacks.com](https://fullstack.llc) project, an initiative for providing a management interface for describing, building, and deploying different full stack strategies using open source software.  It will provide freelance gigs for open sourcers while connecting them directly to clients, and will  use a structured but enjoyable method for the onboarding process, virtual management, and business process oversight to augment the experience.
 
