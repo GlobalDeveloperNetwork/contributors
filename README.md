@@ -4,6 +4,8 @@
 [![Node.js](https://img.shields.io/badge/language-NodeJS-green)](https://npmjs.com)
 [![12 Factor App](https://img.shields.io/badge/app-12--factor-yellow)](https://12factor.net/)
 
+> Important!  Much of the functionality described in this document is in VERY active development on our Gitlab instance.  Please fill out this form for contributor-level access to it.  If you inhtend on using any code you find published to Github, expect that it will NOT be functional until our alpha version for early adopters of the language is released.   (Mid Feb 2021)
+
 # GDN Contributor Information
 Welcome to the Global Developer Network 501(c)(6) pending collective, open source project.  Built by code contributions from open source developers world-wide.
 We intend to accept contributions once our non-profit paperwork is officially approved, and 100% will go towards funding this development effort.
