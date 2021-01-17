@@ -4,7 +4,7 @@
 [![Node.js](https://img.shields.io/badge/language-NodeJS-green)](https://npmjs.com)
 [![12 Factor App](https://img.shields.io/badge/app-12--factor-yellow)](https://12factor.net/)
 
-> Important!  Much of the functionality described in this document is in VERY active development on our Gitlab instance.  Please fill out [this form](https://fullstackengine.typeform.com/to/n9cI47Gf) for contributor-level access to it.  If you inhtend on using any code you find published to Github, expect that it will NOT be functional until our alpha version for early adopters of the language is released.   (Mid Feb 2021)
+> Important!  Much of the functionality described in this document is in VERY active development on our Gitlab instance.  Please fill out [this form](http://bit.ly/0point9alpha) for contributor-level access to it.  If you inhtend on using any code you find published to Github, expect that it will NOT be functional until our alpha version for early adopters of the language is released.   (Mid Feb 2021)
 
 # GDN Contributor Information
 Welcome to the [Global Developer Network](https://bit.ly/osc-gdn) 501(c)(6) [pending collective, open source project](https://bit.ly/2LWFB0D).  Built by code contributions from open source developers world-wide.
@@ -32,7 +32,7 @@ A repository for contributor guidelines and other contributor related informatio
 * The ability to test other combinations of stack technology on our service for free.
 
 Want to contribute dollars or code?
-- Please fill out [this form](https://fullstackengine.typeform.com/to/n9cI47Gf)
+- Please fill out [this form](http://bit.ly/0point9alpha)
 
 ## Early adoption of the language 
 #### (Phase 1)
