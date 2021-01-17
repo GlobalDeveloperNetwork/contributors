@@ -4,15 +4,18 @@
 [![Node.js](https://img.shields.io/badge/language-NodeJS-green)](https://npmjs.com)
 [![12 Factor App](https://img.shields.io/badge/app-12--factor-yellow)](https://12factor.net/)
 
-> Important!  Much of the functionality described in this document is in VERY active development on our Gitlab instance.  Please fill out this form for contributor-level access to it.  If you inhtend on using any code you find published to Github, expect that it will NOT be functional until our alpha version for early adopters of the language is released.   (Mid Feb 2021)
+> Important!  Much of the functionality described in this document is in VERY active development on our Gitlab instance.  Please fill out [this form](https://fullstackengine.typeform.com/to/n9cI47Gf) for contributor-level access to it.  If you inhtend on using any code you find published to Github, expect that it will NOT be functional until our alpha version for early adopters of the language is released.   (Mid Feb 2021)
 
 # GDN Contributor Information
-Welcome to the Global Developer Network 501(c)(6) pending collective, open source project.  Built by code contributions from open source developers world-wide.
+Welcome to the [Global Developer Network](https://bit.ly/osc-gdn) 501(c)(6) [pending collective, open source project](https://bit.ly/2LWFB0D).  Built by code contributions from open source developers world-wide.
+
 We intend to accept contributions once our non-profit paperwork is officially approved, and 100% will go towards funding this development effort.
-We already have some corporate sponsorship, but are always looking for more backers.
+We already have some [corporate sponsorship](https://fullstack.llc), but are always looking for more backers.
 
 # What are we doing?
-We are re-inventing the development process for Full Stack applications with an emphasis on business requirements, domain driven operations, security-first specifications with conformance to industry-standard best practices, and test coverage.  Just ask us!
+We are re-inventing the development process for Full Stack applications with an emphasis on business requirements, domain driven operations, security-first specifications with conformance to industry-standard best practices, and test coverage.  
+
+Just ask us!
 
 # Discord Community
 Please join us on [GDN Discord chat](https://discord.gg/r5vXHwgb).
@@ -22,6 +25,14 @@ A repository designed for contributors to the [OpenSourceStacks.com](https://ful
 
 ## What is this?
 A repository for contributor guidelines and other contributor related information.   This repository will also contain a branch for the fully transparent open source [StackStandard.com](https://stackstandard.com) registry, which provides a taxonomy of behaviors from which [developers of packages and themes](https://www.notion.so/investhere/2-StackStandard-com-2563664485504dd9860d53a270df8631#78a9826a8a3740f6a7474f2d052a2ff3) may adopt conformance, and adopt usage of security control specifications for which we provide testing.   Should you choose to be an early adopter, you will get a fancy badge for your website that says you adhere to these specific standards.  We have a great process for validating the tests and presenting the status of your organization, and we will be marketing early adopters in our future campaigns.
+
+## Contributor Benefits
+* Early access to our GA Amazon AWS Cloud on EKS.  
+* The ability to debug your stack on our cloud at no cost.
+* The ability to test other combinations of stack technology on our service for free.
+
+Want to contribute dollars or code?
+- Please fill out [this form](https://fullstackengine.typeform.com/to/n9cI47Gf)
 
 ## Early adoption of the language 
 #### (Phase 1)
