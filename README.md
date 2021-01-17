@@ -4,6 +4,8 @@
 [![Node.js](https://img.shields.io/badge/language-NodeJS-green)](https://npmjs.com)
 [![12 Factor App](https://img.shields.io/badge/app-12--factor-yellow)](https://12factor.net/)
 
+FOR PROJECT STATUS VISIT THE [AUTOROADMAP!](http://bit.ly/autoroadmap)
+
 > Important!  Much of the functionality described in this document is in VERY active development on our Gitlab instance.  Please fill out [this form](http://bit.ly/0point9alpha) for contributor-level access to it.  If you inhtend on using any code you find published to Github, expect that it will NOT be functional until our alpha version for early adopters of the language is released.   (Mid Feb 2021)
 
 # GDN Contributor Information
