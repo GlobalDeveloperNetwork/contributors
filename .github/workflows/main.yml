@@ -33,6 +33,4 @@ jobs:
 
       - name: Markdown to PDF
         uses: valtyr/pandoc-action@v0.1-alpha
-        
-      - name: GitHub Spellcheck
-        uses: igsekor/pyspelling-any@v1.0.4
+
