@@ -1,5 +1,5 @@
 
-[![License](http://img.shields.io/badge/license-affero%20gpl%203.0-yellow)](https://choosealicense.com/licenses/agpl-3.0/)
+[![License](https://img.shields.io/badge/license-affero%20gpl%203.0-yellow)](https://choosealicense.com/licenses/agpl-3.0/)
 [![Open Source Stacks](https://img.shields.io/badge/Open%20Source%20Stacks-blue)](https://www.opensourcestacks.com)
 [![Groovy](https://img.shields.io/badge/language-Groovy-green)](https://github.com/apache/groovy)
 [![Node.js](https://img.shields.io/badge/language-NodeJS-green)](https://npmjs.com)
