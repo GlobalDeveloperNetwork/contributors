@@ -23,6 +23,15 @@ Just ask us!
 # Discord Community
 Please join us on [GDN Discord chat](https://discord.gg/r5vXHwgb).
 
+## Navigation
+- [What is StackStandard.com?](https://www.notion.so/investhere/2-StackStandard-com-2563664485504dd9860d53a270df8631)
+- [What is GDN?](https://www.notion.so/investhere/GDN-Open-Source-Collective-a4ee2450c4be4a898c32fdaa68760664)
+- [What is an FDSL](https://www.notion.so/investhere/FDSL-explained-7b4469648259459395464d27fc24fee6)
+- [How to Contribute](./How_To_Contribute.md)
+- [How to Accept Payments](./How_To_Accept_Payments.html)
+- [Architecture Guidelines](./Architecture_Guidelines.md)
+- [Security Architecture Standards](./Architecture_Security_Compliance.md)
+
 ## GDN Repo for Contributors
 A repository designed for contributors to the [OpenSourceStacks.com](https://fullstack.llc) project, an initiative for providing a management interface for describing, building, and deploying different full stack strategies using open source software.  It will provide freelance gigs for open sourcers while connecting them directly to clients, and will  use a structured but enjoyable method for the onboarding process, virtual workforce solutions, and business process oversight to augment the experience via the [Full Stack Engine](https://fullstack.llc).
 
