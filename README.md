@@ -139,12 +139,28 @@ The docker images can be [created by Node](https://www.npmjs.com/package/dockero
 
 Some portions of this repo are from the [CrateKube project](https://github.com/cratekube/cratekube), i.e.- the architectural standards, which is now deprecated by Cisco.  
 
-```bash
-The code is deprecated and non-licensed, so we are resurrecting some portions of the project for our CLI.  
-This has been checked by our legal team and we are compliant with all applicable laws.
-```
+- The code is deprecated and non-licensed, so we are resurrecting some portions of the project for our CLI.  
+- This has been checked by our legal team and we are compliant with all applicable laws.
+
 
 © 2021 Copyright Full Stack Engine by LARGE Holdings Ltd. dba Large Marketing Group, LLC.  
 
 ___
 > Questions or concerns about content provided by our service?  We are DMCA compliant, so if you do have questions that need to be addressed, please contact our [legal](mailto:legal@large.marketing) staff directly.
+
+
+___
+Copyright 2021. Global Developer Network (GDN).
+110 Corcoran street, Durham, NC 27701. USA.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
