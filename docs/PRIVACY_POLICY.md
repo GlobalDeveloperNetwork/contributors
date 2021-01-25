@@ -163,7 +163,7 @@ GDN may change its Privacy Policy from time to time.  When we do, we will update
 
 ### Contact Us
 
-Your information is stored by Large Ltd., a holdings company. 
+Your information is stored by GDN on servers owned by Large Ltd., a holdings company, encrypted and stored at AWS Amazon Web Services. 
 
 It's both our responsibility and the responsibility of our parent conglomerate to ensure legal protection and sheltering of the information Large Ltd. maintains privileged access to, and this information will not leave the Large Ltd. corporate umbrella, but may be shared with sister and/or child organizations. We will never sell core data associated with these enterprises, and it will always remain in-tact as captured, immutable or be purged.  
 
