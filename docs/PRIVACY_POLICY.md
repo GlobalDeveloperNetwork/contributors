@@ -163,10 +163,8 @@ GDN may change its Privacy Policy from time to time.  When we do, we will update
 
 ### Contact Us
 
-Your information is controlled by Large Ltd. and LMG Digital Brands, Holdings companies which own majority stake in the Full Stack Engine, LLC.  
-We provide this structure for the legal protections it creates, but also this structure makes it easy to quickly sell a venture while maintaining the fiscal responsibility, data integrity, and core interests of our brand.  
-It's the responsibility of our parent conglomerates to ensure legal protection and sheltering of the information they maintain privileged access to, and this information never should leave the LMG corporate umbrella, but may be shared with sister and/or child organizations. We will never sell core data associated with these enterprises, and it will always remain in-tact as captured in cold storage on Amazon S3 encrypted block stores.  
+Your information is stored by Large Ltd., a holdings company. 
 
-We will never sell out completely and lose our own identity using this structure, and since we're in the business of selling our businesses for profit, this sort of thing is paramount to steadfast continuity in leader-changing, environments.
+It's both our responsibility and the responsibility of our parent conglomerate to ensure legal protection and sheltering of the information Large Ltd. maintains privileged access to, and this information will not leave the Large Ltd. corporate umbrella, but may be shared with sister and/or child organizations. We will never sell core data associated with these enterprises, and it will always remain in-tact as captured, immutable or be purged.  
 
 If you have questions or concerns about the way we are handling your information, please email us with the subject line "Privacy Concern" at `support@fullstack.llc`.
