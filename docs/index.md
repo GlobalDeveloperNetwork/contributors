@@ -1,10 +1,10 @@
-[![License](http://img.shields.io/badge/license-apache%202.0-yellow)](https://choosealicense.com/licenses/apache-2.0/)
+[![License](https://img.shields.io/badge/license-apache%202.0-yellow)](https://choosealicense.com/licenses/apache-2.0/)
 [![Open Source Stacks](https://img.shields.io/badge/Open%20Source%20Stacks-blue)](http://lmg.systems/ssi-roadmap)
 [![Groovy](https://img.shields.io/badge/language-Groovy-green)](https://github.com/apache/groovy)
 [![Node.js](https://img.shields.io/badge/language-NodeJS-green)](https://npmjs.com)
 [![12 Factor App](https://img.shields.io/badge/app-12--factor-yellow)](https://12factor.net/)
 
-<img src="https://i.imgur.com/7Gjuh5P.png" id="osc1" width="400" alt="Open Source Collective" />
+<img src="../main/docs/images/opencollective.png" id="osc1" width="400" alt="Open Source Collective" />
 
 
 # Why GDN?
@@ -151,13 +151,41 @@ The docker images can be [created by Node](https://www.npmjs.com/package/dockero
 
 --- 
 
+# Legal CYA
+
 Some portions of this repo are from the [CrateKube project](https://github.com/cratekube/cratekube), i.e.- the architectural standards, which is now deprecated by Cisco.  
 - The code is deprecated and non-licensed, so we are resurrecting some portions of the project for our CLI.  
 - This has been checked by our legal team and we are compliant with all applicable laws.
 
 ___
+
 > Questions or concerns about content provided by our service?  We are DMCA compliant, so if you do have questions that need to be addressed, please contact our [legal](mailto:legal@large.marketing) staff directly.
 
+
+# Current Sponsors
+
+<table>
+    <tr>
+        <td>
+            <img src="../main/docs/images/stackstandard.png" id="osc2" width="250" alt="Stack Standard" />
+        </td>
+         <td>
+           <img src="../main/docs/images/stackops.png" id="osc3" width="250" alt="Stack Ops" />
+        </td>
+        <td>
+            <img src="../main/docs/images/gitops.png" id="osc3" width="150" alt="Git Ops" />
+        </td>
+        <td>
+            <img src="../main/docs/images/fullstack.png" id="osc3" width="150" alt="Full Stack" />
+        </td>
+    </tr>
+    </table>
+
+
+
+
+
+# License Notice
 
 ___
 Copyright 2021. Global Developer Network (GDN).
