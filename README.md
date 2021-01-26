@@ -4,7 +4,7 @@
 [![Node.js](https://img.shields.io/badge/language-NodeJS-green)](https://npmjs.com)
 [![12 Factor App](https://img.shields.io/badge/app-12--factor-yellow)](https://12factor.net/)
 
-<img src="../docs/images/opencollective.png" id="osc1" width="400" alt="Open Source Collective" />
+<img src="../main/docs/images/opencollective.png" id="osc1" width="400" alt="Open Source Collective" />
 
 
 # Why GDN?
@@ -158,15 +158,33 @@ Some portions of this repo are from the [CrateKube project](https://github.com/c
 - This has been checked by our legal team and we are compliant with all applicable laws.
 
 ___
+
 > Questions or concerns about content provided by our service?  We are DMCA compliant, so if you do have questions that need to be addressed, please contact our [legal](mailto:legal@large.marketing) staff directly.
 
 
 # Current Sponsors
 
-<img src="../docs/images/stackstandard.png" id="osc2" width="250" alt="Stack Standard" />
-<img src="../docs/images/stackops.png" id="osc3" width="250" alt="Stack Ops" />
-<img src="../docs/images/gitops.png" id="osc3" width="250" alt="Stack Ops" />
-<img src="../docs/images/fullstack.png" id="osc3" width="250" alt="Stack Ops" />
+<table>
+    <tr>
+        <td>
+            <img src="../main/docs/images/stackstandard.png" id="osc2" width="250" alt="Stack Standard" />
+        </td>
+         <td>
+           <img src="../main/docs/images/stackops.png" id="osc3" width="250" alt="Stack Ops" />
+        </td>
+        <td>
+            <img src="../main/docs/images/gitops.png" id="osc3" width="150" alt="Git Ops" />
+        </td>
+        <td>
+            <img src="../main/docs/images/fullstack.png" id="osc3" width="150" alt="Full Stack" />
+        </td>
+    </tr>
+    </table>
+
+
+
+
+
 # License Notice
 
 ___
