@@ -4,7 +4,7 @@
 [![Node.js](https://img.shields.io/badge/language-NodeJS-green)](https://npmjs.com)
 [![12 Factor App](https://img.shields.io/badge/app-12--factor-yellow)](https://12factor.net/)
 
-<img src="https://i.imgur.com/7Gjuh5P.png" id="osc1" alt="Open Source Collective" />
+<img src="https://i.imgur.com/7Gjuh5P.png" id="osc1" width="400" alt="Open Source Collective" />
 
 
 # Why GDN?
