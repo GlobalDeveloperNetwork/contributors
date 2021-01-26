@@ -4,6 +4,9 @@
 [![Node.js](https://img.shields.io/badge/language-NodeJS-green)](https://npmjs.com)
 [![12 Factor App](https://img.shields.io/badge/app-12--factor-yellow)](https://12factor.net/)
 
+<img src="https://i.imgur.com/7Gjuh5P.png" id="osc1" alt="Open Source Collective" />
+
+
 # Why GDN?
 - We have been officially recognized by Open Collective as a non-profit 501(c)(6)
 - Our [ROADMAP!](http://lmg.systems/ssi-roadmap) contains a bus full of Open Source Developers!
@@ -171,3 +174,12 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+<style>
+    img#osc1 {
+    border-style: none;
+    background-color: #3a00ff!important;
+    background-blend-mode: color-dodge!important;
+    width: 200px;
+    }
+</style>
