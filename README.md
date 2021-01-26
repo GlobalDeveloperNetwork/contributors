@@ -1,15 +1,26 @@
 [![License](http://img.shields.io/badge/license-apache%202.0-yellow)](https://choosealicense.com/licenses/apache-2.0/)
-[![Open Source Stacks](https://img.shields.io/badge/Open%20Source%20Stacks-blue)](https://www.opensourcestacks.com)
+[![Open Source Stacks](https://img.shields.io/badge/Open%20Source%20Stacks-blue)](http://lmg.systems/ssi-roadmap)
 [![Groovy](https://img.shields.io/badge/language-Groovy-green)](https://github.com/apache/groovy)
 [![Node.js](https://img.shields.io/badge/language-NodeJS-green)](https://npmjs.com)
 [![12 Factor App](https://img.shields.io/badge/app-12--factor-yellow)](https://12factor.net/)
 
-FOR PROJECT STATUS VISIT THE [AUTOROADMAP!](http://bit.ly/autoroadmap)
+# Why GDN?
+- We have been officially recognized by Open Collective as a non-profit 501(c)(6)
+- Our [ROADMAP!](http://lmg.systems/ssi-roadmap) contains a bus full of Open Source Developers!
+- We're tinkering away in order to build something [grand](https://codepen.io/largesoft/live/OJRpeBV).
+- Rest assured if you enjoy working across the stack, you are in the right place.
 
-> Important!  Much of the functionality described in this document is in VERY active development on our Gitlab instance.  Please fill out [this form](http://bit.ly/0point9alpha) for contributor-level access to it.  If you inhtend on using any code you find published to Github, expect that it will NOT be functional until our alpha version for early adopters of the language is released.   (Mid Feb 2021)
+> Please note!  Much of the functionality described in this document is in extrordinarily active development (on Gitlab).  
+
+## Alpha preview
+Please sign up for our early adopters & investors alpha release preview using [this form](https://lmg.systems/zeronine) for contributor-level access to it.  
+
+#### If you inhtend on using any code you find published to Github, expect that it will NOT be functional at minimum until the alpha version is released.   
+It is slated for FY21Q03 which is essentially between now and the end of March.
 
 # GDN Contributor Information
-Welcome to the [Global Developer Network](https://bit.ly/osc-gdn) 501(c)(6) [pending collective, open source project](https://bit.ly/2LWFB0D).  Built by code contributions from open source developers world-wide.
+Welcome to the [Global Developer Network](https://lmg.systems/gdn-osc) 501(c)(6) [Official Open Source Collective](https://lmg.systems/gdn-osc).  
+Built by code contributions from open source developers world-wide.
 
 We intend to accept contributions once our non-profit paperwork is officially approved, and 100% will go towards funding this development effort.
 We already have some [corporate sponsorship](https://fullstack.llc), but are always looking for more backers.
